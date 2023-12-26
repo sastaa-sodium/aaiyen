@@ -1,1 +1,1 @@
-os echo hi
+os clear
