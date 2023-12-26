@@ -1,4 +1,1 @@
-en d
-lmao
-echo
-
+os echo hi
